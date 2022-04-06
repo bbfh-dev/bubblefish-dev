@@ -1,16 +1,37 @@
-### Hi there 👋
+# BubbleFish
+Hello there! My name is BubbleFish, but just call be Bubble.
 
-<!--
-**bubblefish-dev/bubblefish-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I'm 17 years old Ukrainian programmer.
 
-Here are some ideas to get you started:
+## What I'm developing
+* Minecraft Data Packs:
+    * BubbleVehicles
+    * Bubblellaneous
+    * Bubbleconomy
+    * BubbleSeekOut
+* Python:
+    * Making new programming language
+    * Django site development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I know
+* MCFunction
+* Python
+* JavaScript
+* Java
+* GDScript
+* HTML
+* CSS
+
+## Programs I use
+* Blender
+* Visual Studio Code
+* KDEnline
+* PyCharm
+* Intellij IDEA
+
+## What I like to do
+Everything, based on my mood, this includes: Modeling/Setuping/Rendering scenes in Blender, making & editing videos, coding, drawing pixel arts & vector graphics.
+
+## How to contact me:
+Here's my IP Address (for DDoS only): `127.0.0.1`
